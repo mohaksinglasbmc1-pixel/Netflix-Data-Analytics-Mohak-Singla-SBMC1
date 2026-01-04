@@ -7,7 +7,7 @@ The objective is to derive business insights related to content growth, content 
 
 The project follows a complete analytics pipeline — from raw data cleaning to SQL analysis and executive-level dashboard storytelling.
 
-🎯 Business Questions Addressed
+**🎯 Business Questions Addressed**
 
 How has Netflix’s content library evolved over time?
 
