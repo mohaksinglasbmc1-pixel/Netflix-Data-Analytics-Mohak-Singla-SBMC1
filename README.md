@@ -1,6 +1,6 @@
 # Netflix-Data-Analytics-Mohak-Singla-SBMC1
 End-to-end data analytics project on Netflix Movies &amp; TV Shows using Python, SQL, and Lovable ai
-📌 Project Overview
+**📌 Project Overview**
 
 This project presents an end-to-end data analytics solution to analyze Netflix’s global content library.
 The objective is to derive business insights related to content growth, content mix, geographical expansion, audience targeting, and content maturity using structured data analysis and visualization techniques.
@@ -21,8 +21,7 @@ How does Netflix target different audience maturity levels?
 
 What are the typical movie duration patterns?
 
-📂 Dataset Details
-
+**📂 Dataset Details**
 Dataset Name: Netflix Movies & TV Shows
 
 Total Records: 8,807 titles
@@ -49,14 +48,14 @@ Release Year
 
 Date Added
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 Tool	Purpose
 Python (Pandas, NumPy)	Data cleaning & preprocessing
 SQL (SQLite)	Structured querying & aggregation
 Lovable AI	Interactive dashboard visualization
 Jupyter Notebook	Analysis environment
 GitHub	Version control & project submission
-🔄 Project Workflow
+**🔄 Project Workflow**
 
 Data Cleaning (Python)
 
@@ -92,14 +91,14 @@ Added KPI cards, trend charts, composition analysis, and filters
 
 Enabled content exploration at title level
 
-📊 Interactive Dashboard
+**📊 Interactive Dashboard**
 
 An executive-level dashboard was created using Lovable AI to visualize insights derived from the cleaned dataset.
 
-🔗 Dashboard Link:
+**🔗 Dashboard Link:**
 👉 https://stream-scope-pro.lovable.app/
 
-💡 Key Insights
+**💡 Key Insights**
 
 Netflix experienced rapid content expansion after 2015
 
@@ -113,7 +112,7 @@ TV-MA and TV-14 ratings indicate focus on mature audiences
 
 Most movies fall within the 90–120 minute duration range
 
-📈 Business Recommendations
+**📈 Business Recommendations**
 
 Increase investment in episodic TV content to improve retention
 
@@ -123,7 +122,7 @@ Maintain a balanced content mix across genres and formats
 
 Use maturity-based content targeting for personalization
 
-📁 Repository Structure
+**📁 Repository Structure**
 Netflix-Content-Analytics/
 │
 ├── data/
@@ -146,7 +145,7 @@ Netflix-Content-Analytics/
 │
 └── README.md
 
-▶️ How to Run This Project
+**▶️ How to Run This Project**
 
 Open the Jupyter Notebook in the python/ folder to view data cleaning and analysis
 
@@ -156,11 +155,11 @@ Access the interactive dashboard using the provided Lovable AI link
 
 Refer to the report and presentation for summarized insights
 
-🎓 Academic Context
+**🎓 Academic Context**
 
 This project was completed as part of the MBA – Big Data Analytics curriculum and demonstrates practical application of data analytics concepts for real-world business decision-making.
 
-👤 Author
+**👤 Author**
 
-Mohak Singla 
-MBA – Big Data Analytics
+**Mohak Singla**
+**MBA – Big Data Analytics**
